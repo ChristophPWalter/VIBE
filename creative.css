@@ -178,7 +178,7 @@ img::-moz-selection {
 header.masthead {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 56px);
-  background-image: url("../vibe-audio-mastering/header.jpg");
+  background-image: url("../GitHub/vibe-audio-mastering/header.jpg");
   background-position: center center;
   background-size: cover;
 }
