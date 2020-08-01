@@ -446,6 +446,7 @@ section {
   .section-title span {
     font-size: 38px;
   }
+  
 }
 
 /*--------------------------------------------------------------
@@ -453,8 +454,8 @@ section {
 --------------------------------------------------------------*/
 .about .content h3 {
   font-weight: 700;
-  font-size: 26px;
-  color: #3b434a;
+  font-size: 50px;
+  color: #ffffff;
   text-transform: uppercase;
 }
 
