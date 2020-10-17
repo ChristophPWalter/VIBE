@@ -304,7 +304,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #hero:before {
   content: "";
-  background: #ffb727;
+  background: rgba(0, 0, 0, 0.65);
   position: absolute;
   bottom: 0;
   top: 0;
@@ -335,7 +335,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #hero h2 {
   text-align: center;
-  color: #ffb727;
+  color: #eee;
   margin-bottom: 50px;
   font-size: 30px;
   font-weight: 500;
@@ -553,7 +553,7 @@ section {
 }
 
 .about .skills-content .progress-bar-wrap {
-  background: #ffb727;
+  background: #e6e8eb;
 }
 
 .about .skills-content .progress-bar {
