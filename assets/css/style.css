@@ -304,7 +304,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #hero:before {
   content: "";
-  background: rgb(255, 255, 255);
+  background: rgb(172, 65, 194);
   position: absolute;
   bottom: 0;
   top: 0;
@@ -345,7 +345,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #hero .btn-scroll {
   transition: 0.4s;
-  color: rgb(255, 255, 255);
+  color: rgb(176, 96, 207);
   animation: up-down 1s ease-in-out infinite alternate-reverse both;
 }
 
