@@ -333,7 +333,7 @@ h1, h2, h3, h4, h5, h6 {
   margin: 0 0 10px 0;
   font-size: 64px;
   font-family: "Satisfy", serif;
-  color: #fff;
+  color: rgb(186, 12, 192);
 }
 
 #hero h2 {
