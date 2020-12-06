@@ -424,7 +424,7 @@ section {
 .section-title span {
   position: absolute;
   top: 30px;
-  color: #eef0f2;
+  color: #ee9a2c;
   left: 0;
   right: 0;
   z-index: 1;
@@ -455,7 +455,7 @@ section {
 --------------------------------------------------------------*/
 .breadcrumbs {
   padding: 20px 0;
-  background-color: #f4f5f6;
+  background-color: #f87800;
   min-height: 40px;
   margin-top: 78px;
 }
@@ -494,7 +494,7 @@ section {
 .breadcrumbs ol li + li::before {
   display: inline-block;
   padding-right: 10px;
-  color: #6c757d;
+  color: #f58b13;
   content: "/";
 }
 
@@ -516,7 +516,7 @@ section {
 .about .content h3 {
   font-weight: 700;
   font-size: 26px;
-  color: #3b434a;
+  color: #9426b6;
   text-transform: uppercase;
 }
 
