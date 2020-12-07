@@ -303,7 +303,7 @@ h1, h2, h3, h4, h5, h6 {
   height: 100vh;
   background: url("../img/Vibe-Logo-Neon.gif") top right;
   background-size: cover;
-  position: static;
+  position: absolute;
 }
 
 #hero:before {
@@ -316,7 +316,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero .hero-container {
-  position: static;
+  position: absolute;
   bottom: 0;
   top: 0;
   left: 0;
@@ -324,8 +324,8 @@ h1, h2, h3, h4, h5, h6 {
   display: flex;
   justify-content: center;
   align-items: center;
-  flex-direction: column;
-  padding: 0 00px;
+  flex-direction: row;
+  padding: 0 100px;
 }
 
 #hero h1 {
