@@ -303,7 +303,7 @@ h1, h2, h3, h4, h5, h6 {
   height: 100vh;
   background: url("../img/Vibe-Logo-Neon.gif") top right;
   background-size: cover;
-  position: relative;
+  position: static;
 }
 
 #hero:before {
@@ -316,7 +316,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero .hero-container {
-  position: relative;
+  position: static;
   bottom: 0;
   top: 0;
   left: 0;
