@@ -304,7 +304,8 @@ h1, h2, h3, h4, h5, h6 {
   /* DIT max-height regeltje WEGHALEN ALS JE de gif appart hebt*/
   max-height: 80vw;
   /* --------*/
-  background: url("../img/Vibe-Logo-Neon.gif") top right;
+  background: url("../img/Vibe-Logo-Neon.gif");
+  background-position: center;
   background-size: cover;
   position: relative;
 }
