@@ -794,12 +794,12 @@ section {
   font-size: 20px;
   font-weight: bold;
   margin: 10px 0 5px 0;
-  color: #fff;
+  color: rgb(13, 65, 175);
 }
 
 .testimonials .testimonial-item h4 {
   font-size: 14px;
-  color: #ddd;
+  color: rgb(22, 35, 148);
   margin: 0 0 15px 0;
 }
 
