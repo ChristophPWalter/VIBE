@@ -344,8 +344,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #hero h1 {
   margin: 0 0 10px 0;
-  font-size: 64px;
-  font-family: "Satisfy", serif;
+  font-size: 100px;
   color: rgb(186, 12, 192);
 }
 
