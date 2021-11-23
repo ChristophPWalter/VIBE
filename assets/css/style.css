@@ -419,7 +419,7 @@ section {
 .section-title {
   text-align: center;
   padding: 300px 0;
-  position: static;
+  position: absolute;
 }
 
 .section-title h2 {
