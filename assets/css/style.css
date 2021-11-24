@@ -10,11 +10,11 @@
 --------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
-  color: #ffffff;
+  color: #c20db3;
 }
 
 a {
-  color: #ffb727;
+  color: #ff27ac;
 }
 
 a:hover {
@@ -931,7 +931,7 @@ section {
 }
 
 .portfolio .portfolio-item .portfolio-info .preview-link:hover, .portfolio .portfolio-item .portfolio-info .details-link:hover {
-  color: #ffc041;
+  color: #ff41ff;
 }
 
 .portfolio .portfolio-item .portfolio-info .details-link {
@@ -1058,7 +1058,7 @@ section {
 
 .pricing h4 {
   font-size: 36px;
-  color: #ffb727;
+  color: #ff27d0;
   font-weight: 600;
   font-family: "Open Sans", sans-serif;
   margin-bottom: 20px;
@@ -1090,7 +1090,7 @@ section {
 }
 
 .pricing ul i {
-  color: #ffb727;
+  color: #ff27ed;
   font-size: 18px;
   padding-right: 4px;
 }
