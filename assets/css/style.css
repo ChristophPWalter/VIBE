@@ -549,7 +549,7 @@ section {
 .about .content ul i {
   font-size: 20px;
   padding-right: 2px;
-  color: #ffb727;
+  color: #ff27ed;
 }
 
 .about .content .count-box {
@@ -633,7 +633,7 @@ section {
   width: 1px;
   height: 10px;
   transition: .9s;
-  background-color: #ffb727;
+  background-color: #ff27ed;
 }
 
 /*--------------------------------------------------------------
@@ -659,7 +659,7 @@ section {
   font-size: 16px;
   font-weight: 700;
   text-transform: uppercase;
-  color: #ffb727;
+  color: #ff27c9;
   margin-bottom: 10px;
 }
 
